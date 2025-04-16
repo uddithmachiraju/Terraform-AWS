@@ -8,4 +8,4 @@
 
         2. Launches a t2.micro EC2 instance in a public subnet.
 
-        3. Uses a Ubuntu AMI (use variable for AMI ID).
+        3. Uses a Ubuntu AMI.
