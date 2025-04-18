@@ -22,3 +22,5 @@
 7. Launch EC2 instance
 8. Access the Website
 9. Destroy 
+
+**NOTE: Do the above project in AWS Console manually for better understanding of how things work.** 
